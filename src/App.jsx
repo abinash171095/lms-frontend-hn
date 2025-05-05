@@ -1,14 +1,14 @@
 
 import './App.css';
 
+import Footer from './Redux/Components/Footer';
+
 function App() {
  
 
   return (
     <>
-      <Routes>
-
-      </Routes>
+<Footer/>
     </>
   )
 }
