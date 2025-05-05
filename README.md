@@ -17,3 +17,7 @@ run server
 ...
 run run dev
 ...
+
+### set up  instructions for tailwind
+
+http://tailwindcss/docs/installation
